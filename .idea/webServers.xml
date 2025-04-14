@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5f9cd5ed-b470-4d09-9bf8-21cc8a605827" name="DRM">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="srv725502.hstgr.cloud" port="22" sshConfigId="08d1ac0b-3de0-4769-9c25-62118a5c2627" sshConfig="root@srv725502.hstgr.cloud:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
